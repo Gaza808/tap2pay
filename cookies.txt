@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bamboohr.com	TRUE	/	FALSE	1999999999	_cfuvid	4ZgydqMgJBIRVHhfR29m7f_YtapIEL75w1xqiiIUbf0-1749745221520-0.0.1.1-604800000
+paybyphone.bamboohr.com	TRUE	/	FALSE	1999999999	SameSite	None
+.cdn.webflow.com	TRUE	/	FALSE	1999999999	_cfuvid	5Cm7ava2B.YRqU3fWmeAvhE38fUZrPdF6R3j3wg8PkA-1749746188805-0.0.1.1-604800000
+www.paybyphone.co.uk	TRUE	/	FALSE	1999999999	SameSite	None
+
